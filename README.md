@@ -8,7 +8,7 @@ I am having 2 years experience in python development .I have recently started le
 
 * 🌍  I'm based in Jamshedpur India
 * 🖥️  See my portfolio at [https://samirgorai.pythonanywhere.com/](http://https://samirgorai.pythonanywhere.com/)
-* ✉️  You can contact me at [samirgoprai17@gmail.com](mailto:samirgorai17@gmail.com)
+* ✉️  You can contact me at [samirgorai17@gmail.com](mailto:samirgorai17@gmail.com)
 * 🧠  I'm learning Django Rest Framework
 * 🤝  I'm open to collaborating on Python Autoimations,Python web devlopment
 
